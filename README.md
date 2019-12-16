@@ -1,37 +1,23 @@
-## Welcome to GitHub Pages
+# puffer-firetv-example
+Stanford Puffer Live TV Streaming App for Fire TV (Example / How-to)
 
-You can use the [editor on GitHub](https://github.com/eavakyan/tv_app/edit/master/README.md) to maintain and preview the content for your website in Markdown files.
+## Full Guide / Tutorial
 
-Whenever you commit to this repository, GitHub Pages will run [Jekyll](https://jekyllrb.com/) to rebuild the pages in your site, from the content in your Markdown files.
+https://medium.com/p/if-youve-never-considered-building-a-fire-tv-app-before-do-it-it-s-stupid-how-easy-it-is-c19fd3f675af
 
-### Markdown
+## Editing the gh-pages branch (not this one)
 
-Markdown is a lightweight and easy-to-use syntax for styling your writing. It includes conventions for
+**THIS IS NOT THE GH-PAGES BRANCH! EDIT THE [GH-PAGES BRANCH](../../tree/gh-pages) INSTEAD OF THIS ONE!**
 
-```markdown
-Syntax highlighted code block
+If you're forking this repository, you'll want to edit the `gh-pages` branch and replace the session details at the bottom of `index.html` with your own.
 
-# Header 1
-## Header 2
-### Header 3
+You can watch this video to see exactly how it's done: 
+https://www.loom.com/share/24f6ecd0c9484e2fb6878d4bd8a6c8db
 
-- Bulleted
-- List
+## Publishing
 
-1. Numbered
-2. List
+Once you publish your `gh-pages` branch, your final url will be something like this:
 
-**Bold** and _Italic_ and `Code` text
+https://kidgodzilla.github.io/puffer-firetv-example/
 
-[Link](url) and ![Image](src)
-```
-
-For more details see [GitHub Flavored Markdown](https://guides.github.com/features/mastering-markdown/).
-
-### Jekyll Themes
-
-Your Pages site will use the layout and styles from the Jekyll theme you have selected in your [repository settings](https://github.com/eavakyan/tv_app/settings). The name of this theme is saved in the Jekyll `_config.yml` configuration file.
-
-### Support or Contact
-
-Having trouble with Pages? Check out our [documentation](https://help.github.com/categories/github-pages-basics/) or [contact support](https://github.com/contact) and we’ll help you sort it out.
+(with the username being your own).
